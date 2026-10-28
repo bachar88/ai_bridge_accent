@@ -10,8 +10,7 @@ Imagine two people speaking English, yet constantly asking *"sorry, can you repe
 accents can make simple calls hard. **English Voice** listens to you, understands your
 words, and repeats them in a **clear, neutral voice** in your Google Meet call.
 
-- **Code:** https://github.com/Bochra-hammami/english_voice
-- **Prototype demo (videos):** https://drive.google.com/drive/folders/1h79l8VcuUkRoUQr6QqgY-fg8VGALOBh0?usp=sharing
+- **Code:** https://github.com/bachar88/english_voice
 
 ## How it works
 
@@ -45,7 +44,7 @@ outils/         measurement scripts used to choose the model
 1. Python 3.11+ and Git installed.
 2. Clone and install:
    ```powershell
-   git clone https://github.com/Bochra-hammami/english_voice.git
+   git clone https://github.com/bachar88/english_voice.git
    cd english_voice
    python -m venv venv
    venv\Scripts\activate
